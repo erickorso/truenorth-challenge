@@ -61,3 +61,4 @@ Your task is to complete simple notes application using provided `NotesService` 
 
 **Good Luck!**
 
+### Aditional. Use `heroku create $APP_NAME --buildpack mars/create-react-app` to deploy on heroku
